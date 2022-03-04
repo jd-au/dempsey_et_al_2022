@@ -1,0 +1,6 @@
+data
+figures
+movies
+.ipynb_checkpoints
+*.pdf
+*.tex
