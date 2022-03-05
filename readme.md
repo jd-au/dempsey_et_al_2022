@@ -1,11 +1,11 @@
-# Plots and other output for SMC HI Absorption paper
+# Plots and other output for Dempsey et al 2022
 
 Paper title: GASKAP-HI Pilot Survey Science III: An unbiased view of cold gas in the Small Magellanic Cloud
 
 ## Analysis
 
-The CorrectedColumnDensity.ipynb notebook should be run first to produce the gaskap_smc_spectra.vot table used for most analysis in this paper.
-Then run the CatalogueStats.ipynb notebook to produce the gaskap_smc_absorption.vot table.
+The BuildCatalogues.ipynb notebook should be run first to produce the gaskap_smc_spectra.vot and 
+gaskap_smc_absorption.vot catalogues used for most analysis in this paper.
 
 ## Figures
 
@@ -23,7 +23,7 @@ Then run the CatalogueStats.ipynb notebook to produce the gaskap_smc_absorption.
 * Fig 11 (bottom) - Spin temperature distribution map - SourcesMaps.ipynb
 * Fig 12 - Cool gas fraction - CorrectedColumnDensity.ipynb
 * Fig 13 - Column Density Correction Ratio CDF - CorrectedColumnDensity.ipynb
-* Fig 14 - Meam SMC spectrum - MeanSpectrum.ipynb
+* Fig 14 - Mean SMC spectrum - MeanSpectrum.ipynb
 
 ## Tables
 
