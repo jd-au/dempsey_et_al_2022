@@ -22,8 +22,9 @@ gaskap_smc_absorption.vot catalogues used for most analysis in this paper.
 * Fig 11 (top) - Spin temperature by column density - CorrectedColumnDensity.ipynb
 * Fig 11 (bottom) - Spin temperature distribution map - SourcesMaps.ipynb
 * Fig 12 - Cool gas fraction - CorrectedColumnDensity.ipynb
-* Fig 13 - Column Density Correction Ratio CDF - CorrectedColumnDensity.ipynb
-* Fig 14 - Mean SMC spectrum - MeanSpectrum.ipynb
+* Fig 13 - Column Density Correction Ratio CDF - GalacticComparison.ipynb
+* Fig 14 - Mean Spin Temperature CDF - GalacticComparison.ipynb
+* Fig 15 - Mean SMC spectrum - MeanSpectrum.ipynb
 
 ## Tables
 

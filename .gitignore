@@ -4,3 +4,12 @@ movies
 .ipynb_checkpoints
 *.pdf
 *.tex
+cubelets
+spectra
+*.pptx
+*.zip
+*.txt
+gass-lv.fits
+*.fits
+mwfigures/
+paper/
